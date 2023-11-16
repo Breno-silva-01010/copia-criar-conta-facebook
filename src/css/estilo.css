@@ -1,0 +1,164 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color: rgb(237, 237, 246);
+}
+
+header{
+    padding-top: 5px;
+}
+
+img{
+    height: 100px;
+    width: 303px;
+}
+
+#formulario{
+    background-color: white;
+    width: 432px;
+    margin: 0 auto;
+    border-radius: 8px;
+    bottom: 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.1);
+}
+
+.pt1{
+    padding: 10px 16px;
+    height: 60px;
+}
+
+#barratext{
+    text-align: left;
+}
+
+.text {
+    font-size: 15px;
+    margin-bottom: 9px;
+    padding: 11px;
+    border-radius: 5px;
+    border: 0.667px solid #caced3;
+    width: 171px;
+}
+
+.barra{
+    width: 376px;
+}
+
+.senha{
+    margin: 0;
+}
+
+#sobrenome{
+    margin-left: 5px ;
+}
+
+.info{
+    width: auto;
+    margin: 8px 0 4px;
+    text-align: left;
+}
+
+.infg{
+    margin-bottom: -4px;
+}
+
+.info2{
+    font-size: 13px;
+}
+
+h2{
+    font: 25px;
+}
+
+.pt2{
+    padding: 16px;
+    border-top: 1px solid #caced3;
+}
+
+#button{
+    height: 36px;
+    width: 194px;
+    background-color: #00a400;
+    font-size: 18px;
+    font-weight: bold;
+    color: #ffff;
+    border: none;
+    border-radius: 6px;
+}
+
+#button:hover{
+    color: #e6e6e6;
+}
+
+.idd{
+    padding: 0 20px 0 8px;
+    font-size: 15px;
+    height: 36px;
+    width: 122px;
+    border: 0.667px solid #caced3;
+    border-radius: 5px;
+}
+
+.mar{
+    margin: 0 0 0 12px;
+}
+
+#generogeral{
+    display: flex;
+}
+
+.generoselect{
+    border: 0.667px solid #caced3;
+    border-radius: 5px;
+    font-size: 15px;
+    margin: 8px 0px 6px 0px;
+    display: flex;
+    padding: 5px 0 3px 0;
+}
+
+#marcolino{
+    margin: 8px 12px 6px 12px;
+}
+
+.genero{
+    padding: 0 14px 0 10px;
+}
+
+.select{
+    padding: 3px 12px 0 0;
+}
+
+.descricao{
+    font-size: 11px;
+    text-align: left;
+    color: #7c7e81;
+}
+
+a{
+    color: rgb(41, 97, 251);
+    text-decoration: none;
+}
+
+#abaixo{
+    min-width: 432px;
+    margin-top: 70px;
+    padding: 40px 100px 50px 100px;
+    background-color: #ffffff;
+    font-size: 11px;
+    color: rgb(59, 59, 104);
+    text-align: left;
+}
+
+#t1{
+    padding-bottom: 8px;
+    border-bottom: 1px solid #caced3 ;
+}
+
+#t2{
+    padding-top: 8px ;
+}
